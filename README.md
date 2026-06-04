@@ -6,11 +6,11 @@ Welcome! This repository contains a complete, self-made study notes split into 5
 
 Click on any link below to view or download the specific chapter guide:
 
-1. **[Chapter 1: Security Principles](./Chapter_1_Security_Principles.pdf)** *Information assurance, risk management, security controls, and governance structures.*
-2. **[Chapter 2: Incident Response, BC, and DR](./Chapter_2_Incident_Response_BC_DR.pdf)** *Handling security incidents, Business Continuity planning, and Disaster Recovery.*
-3. **[Chapter 3: Access Controls Concepts](./Chapter_3_Access_Controls_Concepts.pdf)** *Physical/logical access controls, IAM, and the principle of least privilege.*
-4. **[Chapter 4: Network Security](./Chapter_4_Network_Security.pdf)** *Computer networking, secure protocols, firewalls, and network infrastructure safety.*
-5. **[Chapter 5: Security Operations](./Chapter_5_Security_Operations.pdf)** *Data security, system hardening, and best practices for daily operations.*
+1. **[Chapter 1: Security Principles](./Domain_1_Security_Principles.pdf)** *Information assurance, risk management, security controls, and governance structures.*
+2. **[Chapter 2: Incident Response, BC, and DR](./Domain_2_Incident_Response_BC_DR.pdf)** *Handling security incidents, Business Continuity planning, and Disaster Recovery.*
+3. **[Chapter 3: Access Controls Concepts](./Domain_3_Access_Controls_Concepts.pdf)** *Physical/logical access controls, IAM, and the principle of least privilege.*
+4. **[Chapter 4: Network Security](./Domain_4_Network_Security.pdf)** *Computer networking, secure protocols, firewalls, and network infrastructure safety.*
+5. **[Chapter 5: Security Operations](./Domain_5_Security_Operations.pdf)** *Data security, system hardening, and best practices for daily operations.*
 
 ## 🎯 Target Audience
 - Candidates actively preparing for the **ISC2 CC Exam**.
